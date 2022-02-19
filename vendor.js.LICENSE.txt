@@ -5,7 +5,7 @@ object-assign
 */
 
 /*!
- * clipboard.js v2.0.8
+ * clipboard.js v2.0.10
  * https://clipboardjs.com/
  *
  * Licensed MIT © Zeno Rocha
@@ -60,6 +60,13 @@ Licensed under The MIT License (http://opensource.org/licenses/MIT)
 /*!*********************************************************************************************************!*\
   !*** external {"root":"PropTypes","amd":"prop-types","commonjs":"prop-types","commonjs2":"prop-types"} ***!
   \*********************************************************************************************************/
+
+/*!-----------------------------------------------------------------------------
+ * Copyright (c) Microsoft Corporation. All rights reserved.
+ * Version: 0.32.1(29a273516805a852aa8edc5e05059f119b13eff0)
+ * Released under the MIT license
+ * https://github.com/microsoft/monaco-editor/blob/main/LICENSE.txt
+ *-----------------------------------------------------------------------------*/
 
 /**
 	   * @license
